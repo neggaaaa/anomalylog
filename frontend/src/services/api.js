@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://anomaly-api.onrender.com";
+const BACKEND_URL = "https://github.com/neggaaaa/anomalylog.git";
 
 export const uploadFile = async (file) => {
   const formData = new FormData();
